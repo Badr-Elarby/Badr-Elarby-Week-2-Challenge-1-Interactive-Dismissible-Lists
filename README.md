@@ -1,16 +1,14 @@
-# dismissible_reorderable_lits
+## 🏆 Challenge 1: Interactive Dismissible Lists
 
-A new Flutter project.
+This is a small Flutter widget for managing tasks.  
+Users can **swipe to delete** tasks and **drag to reorder** them.  
 
-## Getting Started
+### Features:
+- Swipe-to-delete with confirmation dialog  
+- Drag-to-reorder tasks  
+- Undo deleted tasks with SnackBar  
+- 5 sample tasks included  
 
-This project is a starting point for a Flutter application.
+Here is a demo of the widget:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Interactive List Demo](demo/demo.gif)
