@@ -11,4 +11,4 @@ Users can **swipe to delete** tasks and **drag to reorder** them.
 
 Here is a demo of the widget:
 
-![Interactive List Demo](demo/demo.gif)
+![Demo](demofile/demo.gif)
